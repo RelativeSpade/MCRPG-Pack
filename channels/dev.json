@@ -1,7 +1,7 @@
 {
-  "version": "pack-1764b93692e3-8a0da237c260",
-  "sha1": "8a0da237c260185fcfa8aea0a34f390f39fbbdbf",
-  "id": "8a0da237-c260-585f-8fa8-aea0a34f390f",
+  "version": "pack-e58708094766-235b4d6d315c",
+  "sha1": "235b4d6d315c57241beaeec0cee71247eb09c123",
+  "id": "235b4d6d-315c-5724-9bea-eec0cee71247",
   "glyphCount": 6,
   "fontCount": 2,
   "dependencies": [
@@ -14,5 +14,5 @@
     88,
     0
   ],
-  "url": "https://github.com/RelativeSpade/MCRPG-Pack/releases/download/pack-1764b93692e3-8a0da237c260/mcrpg-resource-pack.zip"
+  "url": "https://github.com/RelativeSpade/MCRPG-Pack/releases/download/pack-e58708094766-235b4d6d315c/mcrpg-resource-pack.zip"
 }
