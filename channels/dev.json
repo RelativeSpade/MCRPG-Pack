@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "channel": "dev",
+  "version": "pack-1eb3fe4a9e76",
+  "minecraftVersion": "26.2",
+  "packFormat": [88, 0],
+  "id": "ce8a7e52-83db-538c-85bd-a2b34cb76bb8",
+  "sha1": "ce8a7e5283db038c85bda2b34cb76bb850839009",
+  "url": "https://github.com/RelativeSpade/MCRPG-Pack/releases/download/pack-1eb3fe4a9e76/mcrpg-resource-pack.zip",
+  "glyphCount": 6
+}
