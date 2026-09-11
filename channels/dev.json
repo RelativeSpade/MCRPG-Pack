@@ -1,7 +1,7 @@
 {
-  "version": "pack-1b2646993a3b-3c216a942324",
-  "sha1": "3c216a942324515ebd62d3c3c034883c743e0bbe",
-  "id": "3c216a94-2324-515e-bd62-d3c3c034883c",
+  "version": "pack-9b3ad78bf6ea-03a1efd6880c",
+  "sha1": "03a1efd6880c6d095c2706c0aca202d4dfb8560a",
+  "id": "03a1efd6-880c-5d09-9c27-06c0aca202d4",
   "glyphCount": 150,
   "fontCount": 60,
   "tooltipCount": 18,
@@ -10,7 +10,7 @@
     "model_engine",
     "negative_space"
   ],
-  "sizeBytes": 2379757,
+  "sizeBytes": 2379979,
   "schemaVersion": 1,
   "channel": "dev",
   "minecraftVersion": "26.2",
@@ -18,5 +18,5 @@
     88,
     0
   ],
-  "url": "https://github.com/RelativeSpade/MCRPG-Pack/releases/download/pack-1b2646993a3b-3c216a942324/mcrpg-resource-pack.zip"
+  "url": "https://github.com/RelativeSpade/MCRPG-Pack/releases/download/pack-9b3ad78bf6ea-03a1efd6880c/mcrpg-resource-pack.zip"
 }
